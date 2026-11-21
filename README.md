@@ -4,7 +4,7 @@ This is Cody Byrnes. He's a front end full stack web development major at Arizon
 Cody loves UI/UX design. Seeing what a website will look like when it's all said and done makes him thrilled. 
 
 Be sure to check out his Behance and Adobe Portfolio. 
-Behance profile https://www.behance.net/codybyrnes
+Behance profile <br> https://www.behance.net/codybyrnes
 He's currently working at a grocery store, playing his way through college. His goal is to be a UI/UX desinger. In his spare time he likes to read, play video games, and go to his kick boxing classes. 
 <img width="588" height="588" alt="Cody Byrnes_Photo" src="https://github.com/user-attachments/assets/37082da2-2fb6-40ad-a1fe-0c87a9acad8b" />
 
