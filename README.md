@@ -1,7 +1,7 @@
 ## Hi there 👋
 <p>Hi I'm Cody Byrnes. I'm a front end full stack web development major at Arizona State University. I got my associates degree at Sussex County Community College in computer science in December of 2023. I'm set to graduate with a bechelors degree in front end full stack web development in May 2027.</p> 
 
-<p>I loves UI/UX design. Seeing what a website will look like when it's all said and done makes me thrilled.</p> 
+<p>I love UI/UX design. Seeing what a website will look like when it's all said and done makes me thrilled.</p> 
 
 Be sure to check out my Behance and Adobe Portfolio. 
 Behance profile <br> https://www.behance.net/codybyrnes
