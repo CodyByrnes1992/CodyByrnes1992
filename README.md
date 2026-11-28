@@ -1,12 +1,12 @@
 ## Hi there 👋
-<p>This is Cody Byrnes. He's a front end full stack web development major at Arizona State University. He completed his associates degree at Sussex County Community College in computer science in December of 2023. He's set to graduate with a bechelors degree in front end full stack web development in May 2027.</p> 
+<p>Hi I'm Cody Byrnes. I'm a front end full stack web development major at Arizona State University. I got my associates degree at Sussex County Community College in computer science in December of 2023. I'm set to graduate with a bechelors degree in front end full stack web development in May 2027.</p> 
 
-<p>Cody loves UI/UX design. Seeing what a website will look like when it's all said and done makes him thrilled.</p> 
+<p>I loves UI/UX design. Seeing what a website will look like when it's all said and done makes me thrilled.</p> 
 
-Be sure to check out his Behance and Adobe Portfolio. 
+Be sure to check out my Behance and Adobe Portfolio. 
 Behance profile <br> https://www.behance.net/codybyrnes
-
-<p>He's currently working at a grocery store, playing his way through college. His goal is to be a UI/UX desinger. In his spare time he likes to read, play video games, and go to his kick boxing classes. </p>
+LinkedIn <br> https://www.linkedin.com/in/cody-byrnes-682b57128/
+<p>I currently work at a grocery store, paying my way through college. My goal is to be a UI/UX desinger. I like to read, play video games, and go to my kick boxing classes. </p>
 <img width="588" height="588" alt="Cody Byrnes_Photo" src="https://github.com/user-attachments/assets/37082da2-2fb6-40ad-a1fe-0c87a9acad8b" /> 
 
 <!--
